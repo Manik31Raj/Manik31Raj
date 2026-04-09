@@ -40,7 +40,7 @@ I am a Java Backend Developer with experience in building scalable microservices
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manik31raj) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manik31raj@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manik31raj.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manik31raj.github.io/Portfolio/)
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? ☕
 <br>
