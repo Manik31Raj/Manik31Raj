@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Manik Raj Chaurasia!
 
-**Java Backend Developer | Spring Boot & Microservices Specialist** 
+**Java Backend Developer | Spring Boot & Microservices ** 
 
 I am a Java Backend Developer with experience in building scalable microservices using Spring Boot, MySQL, and REST APIs. I specialize in designing secure systems with JWT authentication and asynchronous messaging.
 
