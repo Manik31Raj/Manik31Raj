@@ -31,7 +31,7 @@ I am a Java Backend Developer with experience in building scalable microservices
 ### 📊 My GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Manik31Raj&theme=dark&hide_border=true&background=0D1117" alt="Manik's Streak Stats" />
+ <img src="https://streak-stats.demolab.com/?user=Manik31Raj&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 ---
